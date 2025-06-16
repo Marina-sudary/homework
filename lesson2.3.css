@@ -1,0 +1,17 @@
+<Style>
+        .bold{
+           font-weight: bold;
+        }
+        .bold{
+            font-style: italic;
+        }
+        .red{
+            color: red;
+        }
+        .green{
+            color: green;
+        }
+        .blue{
+            color:blue
+        }
+    </Style>
